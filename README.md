@@ -2,7 +2,7 @@
 
 This app is a example of a simple page hits counter. It uses the Internet Computer to store the count of page hits and display it on the page.
 
-## Live demo: xn2x7-pqaaa-aaaal-qdira-cai.ic
+## Live demo: [xn2x7-pqaaa-aaaal-qdira-cai.icp0.io](https://xn2x7-pqaaa-aaaal-qdira-cai.icp0.io)
 
 ---
 
