@@ -4,8 +4,6 @@ This app is a example of a simple page hits counter. It uses the Internet Comput
 
 ## Live demo: [xn2x7-pqaaa-aaaal-qdira-cai.icp0.io](https://xn2x7-pqaaa-aaaal-qdira-cai.icp0.io)
 
----
-
 **Better readme coming soon.**
 
 Welcome to your new page_hits_counter project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
