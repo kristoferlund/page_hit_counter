@@ -9,11 +9,11 @@ export default function Counter() {
 
   if (
     import.meta.env.DEV ||
-    window.location.hostname === "localhost" ||
+    window.location.hostname.includes("localhost") ||
     window.location.hostname === "127.0.0.1"
   ) {
-    loadingSrc = `http://127.0.0.1:4943?canisterId=${canisterId}`;
-    counterSrc = `${loadingSrc}&track`;
+    loadingSrc = `http://${canisterId}.localhost:4943`;
+    counterSrc = `${loadingSrc}?track`;
   } else {
     loadingSrc = `https://${canisterId}.raw.icp0.io`;
     counterSrc = `${loadingSrc}?track`;
